@@ -101,4 +101,4 @@ https://pratoolgit.github.io/Rakshabandhanwish/
 
 Created with ❤️ as a digital Raksha Bandhan wishing template.
 
-If you use this template or create something cool with it, consider giving the original project a ⭐ on Gi
+If you use this template or create something cool with it, consider giving the original project a ⭐ on Git
